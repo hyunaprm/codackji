@@ -1,6 +1,7 @@
 # codackji
 초등학생을 위한 코딩교육 웹 서비스
 
+### UCC 링크 : https://www.youtube.com/watch?v=Gw2JGkMJ_DE
 
 - 문제풀이/선택 : 본인 수준에 맞는 단계를 선택할 수 있음
 - 코드 작성 : 작성할 언어를 선택하여 코드 에디터 상에서 작성 가능
